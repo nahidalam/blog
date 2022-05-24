@@ -26,4 +26,4 @@ xgboost==0.90
 
 
 ##### Deep Learning Packages
-tensorflow==2.3
+tensorflow==2.6.4
